@@ -1,1 +1,1 @@
-[TEXT] (https://www.worldometers.info/coronavirus/)
+[TEXT] (https://worldometers.info)
