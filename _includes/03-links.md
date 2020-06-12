@@ -1,1 +1,1 @@
-[github] (https://www.worldometers.info/coronavirus/)
+[TEXT] (https://www.worldometers.info/coronavirus/)
